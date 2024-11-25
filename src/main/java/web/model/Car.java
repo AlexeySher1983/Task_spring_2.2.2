@@ -1,5 +1,5 @@
 package web.model;
-
+// 1. Импортируем библиотеку
 public class Car {
 
     private String name;
